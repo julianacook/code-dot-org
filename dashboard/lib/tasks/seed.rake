@@ -279,7 +279,7 @@ namespace :seed do
   end
 
   # Number of accounts to generate, by type
-  NUM_STUDENTS = 75
+  NUM_STUDENTS = 100
   NUM_TAUGHT_STUDENTS = 20
   NUM_AUTHORIZED_TAUGHT_STUDENTS = 10
 
